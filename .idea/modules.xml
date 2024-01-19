@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Basics.iml" filepath="$PROJECT_DIR$/Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12.0 Java Collections/_12.0 Java Collections.iml" filepath="$PROJECT_DIR$/_12.0 Java Collections/_12.0 Java Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12.1 Array List/_12.1 Array List.iml" filepath="$PROJECT_DIR$/_12.1 Array List/_12.1 Array List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12.2 Array List Part 2/_12.2 Array List Part 2.iml" filepath="$PROJECT_DIR$/_12.2 Array List Part 2/_12.2 Array List Part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12.3 Autoboxing and Unboxing/_12.3 Autoboxing and Unboxing.iml" filepath="$PROJECT_DIR$/_12.3 Autoboxing and Unboxing/_12.3 Autoboxing and Unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12.4 Stack Methods/_12.4 Stack Methods.iml" filepath="$PROJECT_DIR$/_12.4 Stack Methods/_12.4 Stack Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12.5 Linked List Operations/_12.5 Linked List Operations.iml" filepath="$PROJECT_DIR$/_12.5 Linked List Operations/_12.5 Linked List Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.0 Java Generics/_13.0 Java Generics.iml" filepath="$PROJECT_DIR$/_13.0 Java Generics/_13.0 Java Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.1 Getting Started With Generics/_13.1 Getting Started With Generics.iml" filepath="$PROJECT_DIR$/_13.1 Getting Started With Generics/_13.1 Getting Started With Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.2 Understanding Generics/_13.2 Understanding Generics.iml" filepath="$PROJECT_DIR$/_13.2 Understanding Generics/_13.2 Understanding Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.3 Type Parameters/_13.3 Type Parameters.iml" filepath="$PROJECT_DIR$/_13.3 Type Parameters/_13.3 Type Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.4 Generic Method/_13.4 Generic Method.iml" filepath="$PROJECT_DIR$/_13.4 Generic Method/_13.4 Generic Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.5 Bounded Type Parameter/_13.5 Bounded Type Parameter.iml" filepath="$PROJECT_DIR$/_13.5 Bounded Type Parameter/_13.5 Bounded Type Parameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.6 Comparable Interface/_13.6 Comparable Interface.iml" filepath="$PROJECT_DIR$/_13.6 Comparable Interface/_13.6 Comparable Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13.7 Wildcards in Generics/_13.7 Wildcards in Generics.iml" filepath="$PROJECT_DIR$/_13.7 Wildcards in Generics/_13.7 Wildcards in Generics.iml" />
+    </modules>
+  </component>
+</project>
